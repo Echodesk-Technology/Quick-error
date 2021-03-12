@@ -1,0 +1,14 @@
+{
+  "name": "quick-error",
+  "version": "1.0.0",
+  "description": "Quick error handler",
+  "main": "quick-error.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Error"
+  ],
+  "author": "Kehinde Akinsanya",
+  "license": "MIT"
+}
