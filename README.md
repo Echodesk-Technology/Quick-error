@@ -8,7 +8,7 @@
 <br />
 
 <p align="center">
-<img alt="Downloads" src="https://img.shields.io/npm/dw/quick-js">
+<img alt="Downloads" src="https://img.shields.io/npm/dw/quick-error">
 <img alt="GitHub" src="https://img.shields.io/github/license/serverguyken/logsnap">
 </p>
 
@@ -17,9 +17,9 @@
 <p align="center">
     <!-- <a href="https://logsnap.site">View Demo</a> -->
     ·
-    <a href="https://github.com/Echodesk-Technology/QuickJS/issues">Report Bug</a>
+    <a href="https://github.com/Echodesk-Technology/quick-error/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Echodesk-Technology/QuickJS/issues">Request Feature</a>
+    <a href="https://github.com/Echodesk-Technology/quick-error/issues">Request Feature</a>
   </p>
 </p>
 
